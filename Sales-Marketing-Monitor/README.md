@@ -39,7 +39,7 @@ The goal: enable smarter, faster decisions and free up analyst time for value-ad
 
 ## 🖼️ Dashboard Preview
 
-![Sales Dashboard Preview](./Dashboard_Screenshot/Sales_Insights.png)
+![Sales Dashboard Preview](Dashboard_Screenshot/Sales_Insights.png)
 
 ---
 
