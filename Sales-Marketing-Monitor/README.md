@@ -47,12 +47,9 @@ The goal: enable smarter, faster decisions and free up analyst time for value-ad
 
 Sales-Marketing-Monitor/  
 ├── README.md  
-├── Dashboard_Screenshot/  
-│   └── Sales_Insights.png  
-├── SQL/  
-│   ├── db_dump.sql  
-└── Power BI/  
-    └── Sales Insights.pbix  
+├── Dashboard_Screenshot / Sales_Insights.png
+├── SQL / db_dump.sql
+└── Power BI / Sales Insights.pbix
 
 ---
 
